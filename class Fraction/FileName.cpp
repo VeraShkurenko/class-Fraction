@@ -54,7 +54,6 @@ public:
         return denominator;
     }
 
-    // Метод для ввода данных
     void Input(int a, int b)
     {
         numerator = a;
